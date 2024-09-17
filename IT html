@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Assignment 1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        h1 {
+            font-size: 2em;
+        }
+        h2 {
+            font-size: 1.5em;
+        }
+        p {
+            text-align: justify;
+            margin: 0 15px;
+        }
+        .underline {
+            text-decoration: underline;
+        }
+        .bold {
+            font-weight: bold;
+        }
+        hr {
+            border: 1px solid red;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>HTML Assignment 1</h1>
+    <hr>
+    <p>It is my <span class="bold">First HTML Assignment</span>. I am excited to learn HTML, and I want to make a career in <span class="bold">web designing</span>.</p>
+
+    <h2>Introduction to HTML</h2>
+    <p><span class="bold">HTML</span> (Hypertext Markup Language) is used to create documents on the <span class="underline">World Wide Web</span>. It is simply a collection of certain keywords called "<span class="bold">Tags</span>" that are helpful in writing the document to be displayed using a browser on the Internet. HTML was developed by <span class="bold">TIM BERNERS-LEE</span> in 1992.</p>
+
+</body>
+</html>
